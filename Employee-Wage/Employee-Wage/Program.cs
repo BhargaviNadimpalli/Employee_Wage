@@ -15,7 +15,7 @@ namespace Employee_Wage
             {
                 Console.WriteLine("Employee is present");
                 Employee_Hrs = 8;
-            
+
             }
             else
             {
