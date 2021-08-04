@@ -11,19 +11,22 @@ namespace Employee_Wage
             Random rand = new Random();
             int num = rand.Next(1, 4);
             Console.WriteLine("Random number is" + num);
-            if (num == 1)
+            switch(num)
             {
-                Console.WriteLine("Employee is full time present");
-                Employee_Hrs = 8;
-            }
-            else if (num == 2)
-            {
-                Console.WriteLine("Employee is part time present");
-                Employee_Hrs = 4;
-            }
-            else
-            { 
-                Console.WriteLine("Employee is absent");
+                case 1:
+                    Console.WriteLine("Employee is full time present");
+                    Employee_Hrs = 8;
+                    break;
+                case 2:
+                    Console.WriteLine("Employee is part time present");
+                    Employee_Hrs = 4;
+                    break;
+                case 3:
+                    Console.WriteLine("Employee is absent");
+                    break;
+                default:
+                    Console.WriteLine("correct the program");
+                    break;
             }
             int EmpWage = Employee_Hrs * Wage_Per_Hr;
             Console.WriteLine("The employee wage is " + EmpWage);
