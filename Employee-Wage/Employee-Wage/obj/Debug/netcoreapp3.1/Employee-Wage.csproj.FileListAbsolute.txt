@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\bin\Debug\netcoreapp3.1\Employee-Wage.exe
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\bin\Debug\netcoreapp3.1\Employee-Wage.deps.json
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\bin\Debug\netcoreapp3.1\Employee-Wage.runtimeconfig.json
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\bin\Debug\netcoreapp3.1\Employee-Wage.runtimeconfig.dev.json
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\bin\Debug\netcoreapp3.1\Employee-Wage.dll
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\bin\Debug\netcoreapp3.1\Employee-Wage.pdb
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\obj\Debug\netcoreapp3.1\Employee-Wage.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\obj\Debug\netcoreapp3.1\Employee-Wage.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\obj\Debug\netcoreapp3.1\Employee-Wage.AssemblyInfo.cs
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\obj\Debug\netcoreapp3.1\Employee-Wage.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\obj\Debug\netcoreapp3.1\Employee-Wage.dll
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\obj\Debug\netcoreapp3.1\Employee-Wage.pdb
+C:\Users\HP\source\repos\cSharp\day3\Employee_Wage\Employee-Wage\Employee-Wage\obj\Debug\netcoreapp3.1\Employee-Wage.genruntimeconfig.cache
